@@ -1,0 +1,13 @@
+C:\Users\MTPC4-01\Downloads\inwoox-trekker_googlecrawler-77e3cd5892a8\GoogleCrawler\GoogleCrawler\bin\Debug\GoogleCrawler.exe.config
+C:\Users\MTPC4-01\Downloads\inwoox-trekker_googlecrawler-77e3cd5892a8\GoogleCrawler\GoogleCrawler\bin\Debug\GoogleCrawler.exe
+C:\Users\MTPC4-01\Downloads\inwoox-trekker_googlecrawler-77e3cd5892a8\GoogleCrawler\GoogleCrawler\bin\Debug\GoogleCrawler.pdb
+C:\Users\MTPC4-01\Downloads\inwoox-trekker_googlecrawler-77e3cd5892a8\GoogleCrawler\GoogleCrawler\bin\Debug\WebDriver.dll
+C:\Users\MTPC4-01\Downloads\inwoox-trekker_googlecrawler-77e3cd5892a8\GoogleCrawler\GoogleCrawler\bin\Debug\WebDriver.Support.dll
+C:\Users\MTPC4-01\Downloads\inwoox-trekker_googlecrawler-77e3cd5892a8\GoogleCrawler\GoogleCrawler\obj\Debug\GoogleCrawler.csproj.AssemblyReference.cache
+C:\Users\MTPC4-01\Downloads\inwoox-trekker_googlecrawler-77e3cd5892a8\GoogleCrawler\GoogleCrawler\obj\Debug\GoogleCrawler.Form1.resources
+C:\Users\MTPC4-01\Downloads\inwoox-trekker_googlecrawler-77e3cd5892a8\GoogleCrawler\GoogleCrawler\obj\Debug\GoogleCrawler.Properties.Resources.resources
+C:\Users\MTPC4-01\Downloads\inwoox-trekker_googlecrawler-77e3cd5892a8\GoogleCrawler\GoogleCrawler\obj\Debug\GoogleCrawler.csproj.GenerateResource.cache
+C:\Users\MTPC4-01\Downloads\inwoox-trekker_googlecrawler-77e3cd5892a8\GoogleCrawler\GoogleCrawler\obj\Debug\GoogleCrawler.csproj.CoreCompileInputs.cache
+C:\Users\MTPC4-01\Downloads\inwoox-trekker_googlecrawler-77e3cd5892a8\GoogleCrawler\GoogleCrawler\obj\Debug\GoogleCrawler.csproj.CopyComplete
+C:\Users\MTPC4-01\Downloads\inwoox-trekker_googlecrawler-77e3cd5892a8\GoogleCrawler\GoogleCrawler\obj\Debug\GoogleCrawler.exe
+C:\Users\MTPC4-01\Downloads\inwoox-trekker_googlecrawler-77e3cd5892a8\GoogleCrawler\GoogleCrawler\obj\Debug\GoogleCrawler.pdb
